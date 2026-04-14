@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Modul7_BNP\\Modul7_BNP.csproj": {}
+    "D:\\Jurnal7_4802\\Jurnal7_4802\\Modul7_BNP.csproj": {}
   },
   "projects": {
-    "D:\\Modul7_BNP\\Modul7_BNP.csproj": {
+    "D:\\Jurnal7_4802\\Jurnal7_4802\\Modul7_BNP.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Modul7_BNP\\Modul7_BNP.csproj",
+        "projectUniqueName": "D:\\Jurnal7_4802\\Jurnal7_4802\\Modul7_BNP.csproj",
         "projectName": "Modul7_BNP",
-        "projectPath": "D:\\Modul7_BNP\\Modul7_BNP.csproj",
+        "projectPath": "D:\\Jurnal7_4802\\Jurnal7_4802\\Modul7_BNP.csproj",
         "packagesPath": "C:\\Users\\PRAKTIKAN\\.nuget\\packages\\",
-        "outputPath": "D:\\Modul7_BNP\\obj\\",
+        "outputPath": "D:\\Jurnal7_4802\\Jurnal7_4802\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
