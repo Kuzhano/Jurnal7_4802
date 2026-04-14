@@ -1,0 +1,15 @@
+D:\grw cwAERA\Jurnal7_4802\obj\Debug\net10.0\Modul7_BNP.GeneratedMSBuildEditorConfig.editorconfig
+D:\grw cwAERA\Jurnal7_4802\obj\Debug\net10.0\Modul7_BNP.AssemblyInfoInputs.cache
+D:\grw cwAERA\Jurnal7_4802\obj\Debug\net10.0\Modul7_BNP.AssemblyInfo.cs
+D:\grw cwAERA\Jurnal7_4802\obj\Debug\net10.0\Modul7_BNP.csproj.CoreCompileInputs.cache
+D:\grw cwAERA\Jurnal7_4802\obj\Debug\net10.0\Modul7_BNP.sourcelink.json
+D:\grw cwAERA\Jurnal7_4802\bin\Debug\net10.0\Modul7_BNP.exe
+D:\grw cwAERA\Jurnal7_4802\bin\Debug\net10.0\Modul7_BNP.deps.json
+D:\grw cwAERA\Jurnal7_4802\bin\Debug\net10.0\Modul7_BNP.runtimeconfig.json
+D:\grw cwAERA\Jurnal7_4802\bin\Debug\net10.0\Modul7_BNP.dll
+D:\grw cwAERA\Jurnal7_4802\bin\Debug\net10.0\Modul7_BNP.pdb
+D:\grw cwAERA\Jurnal7_4802\obj\Debug\net10.0\Modul7_BNP.dll
+D:\grw cwAERA\Jurnal7_4802\obj\Debug\net10.0\refint\Modul7_BNP.dll
+D:\grw cwAERA\Jurnal7_4802\obj\Debug\net10.0\Modul7_BNP.pdb
+D:\grw cwAERA\Jurnal7_4802\obj\Debug\net10.0\Modul7_BNP.genruntimeconfig.cache
+D:\grw cwAERA\Jurnal7_4802\obj\Debug\net10.0\ref\Modul7_BNP.dll
