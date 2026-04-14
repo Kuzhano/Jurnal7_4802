@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Modul7_BNP")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+f56b6ab8b5750241b6aa2dee5ecc1c331880abb0")]
 [assembly: System.Reflection.AssemblyProductAttribute("Modul7_BNP")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Modul7_BNP")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
