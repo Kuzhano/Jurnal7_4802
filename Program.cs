@@ -1,4 +1,6 @@
-﻿class Program
+﻿using Modul7_BNP;
+
+class Program
 {
     static void Main(string[] args)
     {
@@ -11,6 +13,11 @@
 
         Watchlist_103022400098 watchlist = new Watchlist_103022400098();
         watchlist.ReadJSON(jsonFile2);
+        
+        string jsonFile3 = "jurnal7_3_103022400098.json";
+
+        GenreDictionary_103022400098 genreDict = new GenreDictionary_103022400098();
+        genreDict.readJSON(jsonFile2);
 
     }
 }
