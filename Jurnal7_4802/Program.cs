@@ -18,8 +18,8 @@
 
         string jsonFile3 = "D:\\grw cwAERA\\Jurnal7_4802\\jurnal7_3_103022430010.json";
 
-        FilmFavorit_103022430010 ff = new FilmFavorit_103022430010();
-        ff.ReadJSON(jsonFile1);
+        GenreDictionary_103022430010 gd = new GenreDictionary_103022430010();
+        gd.ReadJSON(jsonFile3);
 
     }
 }
