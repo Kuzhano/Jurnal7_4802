@@ -1,17 +1,17 @@
 {
-    "watchlistName": "We",
-    "createdBy": "Kelompok 07",
+    "watchlistName": "IT'S MINE ALL MINE'",
+    "createdBy": "Kelompok BNP",
     "movies": [
         {
             "id": "F101",
-            "title": "The Matrix",
+            "title": "Rush Hour 1",
             "year": 1999,
-            "genre": "Action",
+            "genre": "Comedy",
             "rating": 8.7
         },
         {
             "id": "F102",
-            "title": "Parasite",
+            "title": "Interstellar",
             "year": 2019,
             "genre": "Thriller",
             "rating": 8.5
