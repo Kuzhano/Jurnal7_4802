@@ -1,0 +1,27 @@
+{
+    "watchlistName": "ScifiLover",
+    "createdBy": "wan",
+    "movies": [
+        {
+            "id": "F101",
+            "title": "Hail Mary",
+            "year": 2026,
+            "genre": "Sci-fi",
+            "rating": 10
+        },
+        {
+            "id": "F102",
+            "title": "Interstellar",
+            "year": 2014,
+            "genre": "Sci-fi",
+            "rating": 9.7
+        },
+        {
+            "id": "F103",
+            "title": "TENET",
+            "year": 2016,
+            "genre": "Sci-fi",
+            "rating": 8.4
+        }
+    ]
+}
